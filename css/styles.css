@@ -50,7 +50,7 @@ hr {
 /*************************************Divs-containers************************************************/
 /**************************************top container************************************************/
 .top-container {
-  background-color: #dddddd;
+  background-color: #D9D7F1;
   position: relative;
   padding-top: 100px;
 }
@@ -75,7 +75,7 @@ hr {
 
 /****************middle container***********************/
 .middle-container {
-  background-color: #dddddd;
+  background-color: #D9D7F1;
   margin-top: 0;
   padding-top: 80px;
   padding-bottom: 40px;
